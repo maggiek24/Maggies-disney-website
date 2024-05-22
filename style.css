@@ -3,3 +3,63 @@ h1 {
 	font-size: 60px;
 }
 
+body {
+	background-color:DCEFF9;
+}
+
+
+h1 {
+	color:#EFA7A7 ;
+	text-align: center;
+	font-family: "Times New Roman", serif;
+	font-size: 60px;
+}
+
+p, li, a {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: darkblue;
+}
+
+a, link, a {
+	font-family: "Arial", san-serif;
+}
+.topnav {
+   background-color: #DCEFF9;
+   overflow: hidden;
+}
+
+.topnav a {
+   float: left;
+   color: #000000;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+}
+
+.topnav a:hover {
+   background-color: #DDDDDD;
+   color: black;
+}
+
+.topnav a.active {
+   background-color: #90DCF1;
+   color: white;
+}
+#phototomorrowland {
+   background: url("realspacemountainimage.png");
+   background-repeat: no-repeat;
+   backgroouond-size: cover;
+   height: 600px;
+   padding: 60px 0 px;
+}
